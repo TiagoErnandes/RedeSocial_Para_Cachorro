@@ -10,14 +10,16 @@ const Login = () => {
   const { login } = React.useContext(UserContext);
   if (login) return <Navigate to="/conta" />;
   return (
-    <div className={styles.login}>
-      <Routes>
-        <Route path="/" element={<LoginForm />}></Route>
-        <Route path="/criar" element={<LoginCreate />}></Route>
-        <Route path="/perdeu" element={<LoginPasswordLost />}></Route>
-        <Route path="/resetar" element={<LoginPasswordReset />}></Route>
-      </Routes>
-    </div>
+    <section className={styles.login}>
+      <div className={styles.forms}>
+        <Routes>
+          <Route path="/" element={<LoginForm />}></Route>
+          <Route path="/criar" element={<LoginCreate />}></Route>
+          <Route path="/perdeu" element={<LoginPasswordLost />}></Route>
+          <Route path="/resetar" element={<LoginPasswordReset />}></Route>
+        </Routes>
+      </div>
+    </section>
   );
 };
 
