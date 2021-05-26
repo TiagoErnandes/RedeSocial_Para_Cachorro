@@ -44,6 +44,9 @@ a {
   padding: 0 1rem;
   margin: 0 auto;
 }
+.mainContainer {
+  margin-top: 50rem;
+}
 
 .title::after {
   content: '';
