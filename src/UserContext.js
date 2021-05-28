@@ -29,7 +29,6 @@ export const UserStorage = ({ children }) => {
     const json = await userRes.json();
     setData(json);
     setLogin(true);
-    console.log(json);
   }
 
   async function userLogin(username, password) {
