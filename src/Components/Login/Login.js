@@ -1,5 +1,6 @@
 import React from 'react';
 import { Navigate, Route, Routes } from 'react-router';
+import NotFound from '../../NotFound';
 import { UserContext } from '../../UserContext';
 import styles from './Login.module.css';
 import LoginCreate from './LoginCreate';
@@ -17,6 +18,7 @@ const Login = () => {
           <Route path="/criar" element={<LoginCreate />}></Route>
           <Route path="/perdeu" element={<LoginPasswordLost />}></Route>
           <Route path="/resetar" element={<LoginPasswordReset />}></Route>
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
     </section>
