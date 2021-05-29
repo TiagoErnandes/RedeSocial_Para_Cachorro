@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/RedeSocial_Para_Cachorro/static/css/main.28a05046.chunk.css",
+    "main.js": "/RedeSocial_Para_Cachorro/static/js/main.ceb2b08d.chunk.js",
+    "main.js.map": "/RedeSocial_Para_Cachorro/static/js/main.ceb2b08d.chunk.js.map",
+    "runtime-main.js": "/RedeSocial_Para_Cachorro/static/js/runtime-main.78c60a37.js",
+    "runtime-main.js.map": "/RedeSocial_Para_Cachorro/static/js/runtime-main.78c60a37.js.map",
+    "static/js/2.3df1671e.chunk.js": "/RedeSocial_Para_Cachorro/static/js/2.3df1671e.chunk.js",
+    "static/js/2.3df1671e.chunk.js.map": "/RedeSocial_Para_Cachorro/static/js/2.3df1671e.chunk.js.map",
+    "static/js/3.8dc6b7ac.chunk.js": "/RedeSocial_Para_Cachorro/static/js/3.8dc6b7ac.chunk.js",
+    "static/js/3.8dc6b7ac.chunk.js.map": "/RedeSocial_Para_Cachorro/static/js/3.8dc6b7ac.chunk.js.map",
+    "static/css/4.4c0e2671.chunk.css": "/RedeSocial_Para_Cachorro/static/css/4.4c0e2671.chunk.css",
+    "static/js/4.b2cccf64.chunk.js": "/RedeSocial_Para_Cachorro/static/js/4.b2cccf64.chunk.js",
+    "static/js/4.b2cccf64.chunk.js.map": "/RedeSocial_Para_Cachorro/static/js/4.b2cccf64.chunk.js.map",
+    "index.html": "/RedeSocial_Para_Cachorro/index.html",
+    "static/css/4.4c0e2671.chunk.css.map": "/RedeSocial_Para_Cachorro/static/css/4.4c0e2671.chunk.css.map",
+    "static/css/main.28a05046.chunk.css.map": "/RedeSocial_Para_Cachorro/static/css/main.28a05046.chunk.css.map",
+    "static/js/3.8dc6b7ac.chunk.js.LICENSE.txt": "/RedeSocial_Para_Cachorro/static/js/3.8dc6b7ac.chunk.js.LICENSE.txt",
+    "static/media/adicionar.9ab4633e.svg": "/RedeSocial_Para_Cachorro/static/media/adicionar.9ab4633e.svg",
+    "static/media/dogs-footer.7fa9a2c4.svg": "/RedeSocial_Para_Cachorro/static/media/dogs-footer.7fa9a2c4.svg",
+    "static/media/dogs.7db224df.svg": "/RedeSocial_Para_Cachorro/static/media/dogs.7db224df.svg",
+    "static/media/enviar.71f24014.svg": "/RedeSocial_Para_Cachorro/static/media/enviar.71f24014.svg",
+    "static/media/estatisticas.c828f8cf.svg": "/RedeSocial_Para_Cachorro/static/media/estatisticas.c828f8cf.svg",
+    "static/media/feed.3ea0ca1b.svg": "/RedeSocial_Para_Cachorro/static/media/feed.3ea0ca1b.svg",
+    "static/media/Login.module.css": "/RedeSocial_Para_Cachorro/static/media/login.07d71f5b.jpg",
+    "static/media/sair.259825de.svg": "/RedeSocial_Para_Cachorro/static/media/sair.259825de.svg",
+    "static/media/Header.module.css": "/RedeSocial_Para_Cachorro/static/media/usuario.cd5f6141.svg",
+    "static/media/PhotoContent.module.css": "/RedeSocial_Para_Cachorro/static/media/visualizacao-black.0f2da37d.svg",
+    "static/media/FeedPhotoItem.module.css": "/RedeSocial_Para_Cachorro/static/media/visualizacao.2b7a1329.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78c60a37.js",
+    "static/js/3.8dc6b7ac.chunk.js",
+    "static/css/main.28a05046.chunk.css",
+    "static/js/main.ceb2b08d.chunk.js"
+  ]
+}
